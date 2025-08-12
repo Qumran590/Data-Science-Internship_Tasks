@@ -50,3 +50,14 @@ Jupyter Notebook
 Logistic Regression
 Decision Tree Classifier
 6. Model Evaluation — Used Accuracy Score and Confusion Matrix to compare performances.
+
+Conclusion
+
+Through these five tasks, I gained hands-on experience in data analysis, data visualization, and predictive modeling using Python, Pandas, Matplotlib, Seaborn, and Scikit-learn. Each task allowed me to work with real-world datasets, clean and preprocess data, explore patterns, and apply machine learning algorithms for classification and regression problems.
+This internship enhanced my skills in:
+Data cleaning and handling missing values
+Feature encoding and scaling
+Data visualization for insights
+Model training, evaluation, and interpretation.
+
+Overall, these projects strengthened my ability to apply data science techniques to solve practical business problems and present results clearly.
